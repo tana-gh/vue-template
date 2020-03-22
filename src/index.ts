@@ -3,7 +3,7 @@ import Router  from 'vue-router'
 import Vuetify from 'vuetify'
 import App     from './components/App.vue'
 import router  from './router'
-import '../assets/sass/style.sass'
+import '../assets/scss/style.scss'
 import 'vuetify/dist/vuetify.min.css'
 import 'material-icons/iconfont/material-icons.css'
 
