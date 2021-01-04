@@ -14,7 +14,8 @@ export default Vue.extend({
 })
 </script>
 
-<style lang="sass" scoped>
-div
-    font-weight: bold
+<style lang="scss" scoped>
+>>> div {
+    font-weight: bold;
+}
 </style>

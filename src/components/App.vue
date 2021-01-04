@@ -3,11 +3,11 @@
         <v-app-bar app color="primary" dark>
             <v-toolbar-title>Vue Page</v-toolbar-title>
         </v-app-bar>
-        <v-content>
+        <v-main>
             <v-container fluid>
                 <router-view/>
             </v-container>
-        </v-content>
+        </v-main>
     </v-app>
 </template>
 
@@ -18,5 +18,5 @@ export default Vue.extend({
 })
 </script>>
 
-<style lang="sass" scoped>
+<style lang="scss" scoped>
 </style>
